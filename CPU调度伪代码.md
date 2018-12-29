@@ -1,6 +1,6 @@
 # OS-homework
 
-1. FCFS
+// FCFS算法
 
 // 定义结构体
 
